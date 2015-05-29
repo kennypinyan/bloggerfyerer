@@ -10,7 +10,7 @@ Clone it, run it on a server
 python -m SimpleHTTPServer -myFavouritePort
 ```
 
-## Usage
+## Usage (don't use it)
 
 1. Type words in that there .md file.
 2. Save that there file.
