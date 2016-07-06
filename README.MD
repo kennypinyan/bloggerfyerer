@@ -7,7 +7,7 @@ A super simple static blog generator. Powered by an HTML page, one script (kind 
 Clone it, run it on a server
 
 ``` python
-python -m SimpleHTTPServer -myFavouritePort
+python -m SimpleHTTPServer myFavouritePort
 ```
 
 ## Usage (don't use it)
